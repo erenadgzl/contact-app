@@ -6,8 +6,8 @@ Make sure you have npm installed.
 installation:
 npm install
 
-it will install all the dependencies so the next step is to navigate to the project folder and launch it with:
+for development mode navigate to the project folder and launch it with:
 npm run serve 
 
-for production:
+for production mode navigate to the project folder and launch it with:
 npm run build
